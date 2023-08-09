@@ -1,0 +1,31 @@
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\bin\Debug\net6.0\appsettings.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\bin\Debug\net6.0\NEW WEB APP.staticwebassets.runtime.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\bin\Debug\net6.0\NEW WEB APP.exe
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\bin\Debug\net6.0\NEW WEB APP.deps.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\bin\Debug\net6.0\NEW WEB APP.runtimeconfig.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\bin\Debug\net6.0\NEW WEB APP.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\bin\Debug\net6.0\NEW WEB APP.pdb
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.RazorAssemblyInfo.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.RazorAssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\staticwebassets\msbuild.NEW WEB APP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\staticwebassets\msbuild.build.NEW WEB APP.props
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NEW WEB APP.props
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NEW WEB APP.props
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\scopedcss\bundle\NEW WEB APP.styles.css
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\scopedcss\projectbundle\NEW WEB APP.bundle.scp.css
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\refint\NEW WEB APP.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.pdb
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\NEW WEB APP.genruntimeconfig.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio\VS Webpage Project\NEW WEB APP\NEW WEB APP\obj\Debug\net6.0\ref\NEW WEB APP.dll
